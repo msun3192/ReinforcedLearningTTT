@@ -1,0 +1,1 @@
+Utilization of reward/punishment based learning for AI, through trial and error learned to use data structures such as stacks and queues for optimization, learned the importance of not overfitting, exploration vs expliotation, etc. 
